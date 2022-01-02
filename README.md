@@ -1,6 +1,6 @@
 # Angel's Bite
 
-## Follow Us.
+## Follow our social media account .
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angels_bite/)
 
